@@ -5,5 +5,5 @@
 - 📫 All my social medias are @caioccoronel
 
 You can have a look on other projects that I worked here:
--https://github.com/Elizetaa/X-Ray-Simulation
--https://github.com/MentesInovadoras/PracaDaCiencia
+- https://github.com/Elizetaa/X-Ray-Simulation
+- https://github.com/MentesInovadoras/PracaDaCiencia

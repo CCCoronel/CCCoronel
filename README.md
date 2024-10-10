@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @CCCoronel
+- 👋 Hi, I’m Caio Coronel
 - 👀 I’m interested in Personal development e co-work
-- 🌱 I’m currently learning Jango and Git
-- 💞️ I’m looking to collaborate on Adminstration process 
-- 📫 My social medias are @caioccoronel
+- 🌱 I’m currently learning React and Django
+- 💞️ I’m looking to collaborate on any programing projects
+- 📫 All my social medias are @caioccoronel
 
-<!---
-CCCoronel/CCCoronel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can have a look on other projects that I worked here:
+-https://github.com/Elizetaa/X-Ray-Simulation
+-https://github.com/MentesInovadoras/PracaDaCiencia
